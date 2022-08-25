@@ -2,6 +2,9 @@
 
 is my first own project in Vue.js. It includes a very basic version of BMI Calculator which will be improving.
 
+
+
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
